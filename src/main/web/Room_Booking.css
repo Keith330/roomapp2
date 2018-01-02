@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    background-image: url("fenwaygroup.jpg");
+    background-repeat: no-repeat;
+    background-position: center 20em,center 10px ;
+}
+h1 {
+    color: blue;
+    width: 700px;
+    align: center 10em;
+    position: inherit;
+
+
+}
+table,th,td {
+    border: 1px solid black;
+}
+th {
+    width: 100%;
+}
+td {
+    padding: 25px;
+    text-align: center;
+}
+table#dayTable {
+    background-color: inherit;
+}
+.red{
+    color: red;
+}
+select {
+    width: 200px;
+}
+#times {
+    alignment: center;
+}
+select {
+    background-color: whitesmoke;
+    color: red;
+}
+#display {
+    font-size: 15px;
+    alignment: left;
+    display: none;
+
+
+}
